@@ -1,3 +1,4 @@
+// 呼び出し元のパッケージが CarAppServiceへ接続する権限を持っているかどうかを検証。
 /*
  * Copyright 2021 The Android Open Source Project
  *
